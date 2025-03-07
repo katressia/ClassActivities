@@ -1,0 +1,22 @@
+h1 {
+  color:blue
+}
+p {
+  color: red;
+}
+div {
+  background-color: black;
+  padding: 5px 10px 5px 10px;
+  color:blueviolet;
+}
+li:first-child {
+  color:pink
+}
+ol {
+  color:brown;
+  background:green;
+}
+a:active {
+  color: rgb(68, 0, 255);
+}
+
